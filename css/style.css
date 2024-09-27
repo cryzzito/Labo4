@@ -1,0 +1,14 @@
+body{
+    background-image:url(../images/cinema.jpg) ;
+    background-size: cover;
+    background-position:top;
+}
+h1{
+    color: white;
+}
+ul{
+    list-style: none;
+}
+h2{
+    color: yellowgreen;
+}
