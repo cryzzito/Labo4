@@ -10,13 +10,13 @@ h1{
 ul{
     list-style-type: disc;
 }
-h2{
+ol{
+    color: white;
+    list-style: upper-latin;
+}
+.title{
     color: yellowgreen;
     list-style: none;
     font-size: 25px;
     display: inline;
-}
-ol{
-    color: white;
-    list-style: upper-latin;
 }
