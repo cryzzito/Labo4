@@ -8,18 +8,19 @@ h1{
     color: white;
 }
 ul{
-    list-style-type: disc;;
+    list-style-type: upper-latin;;
+    color: white;
+    font-size: medium;
 }
 ol{
-    color: white;
-    list-style: none;
-}
-.title{
     color: yellowgreen;
     list-style: none;
     font-size: 25px;
     display: inline;
 }
 li{
-    list-style-type: upper-latin;
+    list-style-type: disc;
+}
+.title{
+    list-style: upper-latin;
 }
